@@ -5,4 +5,4 @@ If you're working on something and want to share it with your fellow Lesbians Wh
 
 |Submitted by: |Project|Description|Languages|
 |--------------|-------|-----------|---------|
-|@emilyagras|[Agent Gopher](https://github.com/emilyagras/agentgopher)|Agent Based Modeling | React and Go|
+|[@emilyagras](https://github.com/emilyagras)|[Agent Gopher](https://github.com/emilyagras/agentgopher)|Agent Based Modeling | React and Go|
